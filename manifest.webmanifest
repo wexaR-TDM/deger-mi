@@ -1,0 +1,21 @@
+{
+  "name": "Değer mi?",
+  "short_name": "Değer mi?",
+  "description": "Almadan önce sor: herkes Al ya da Alma diye oy versin.",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f4fb",
+  "theme_color": "#5b3fd9",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
